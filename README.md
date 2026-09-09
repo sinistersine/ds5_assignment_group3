@@ -35,12 +35,6 @@ Ga vervolgens naar de projectmap:
 cd DS5
 ```
 
-Start Jupyter Notebook:
-
-```shell
-jupyter notebook
-```
-
 ### Vebruik
 
 Open het gewenste `.ipynb`-bestand in Jupyter Notebook en voer de cellen uit.
